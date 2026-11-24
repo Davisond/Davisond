@@ -2,9 +2,9 @@
 
 **`FullStack Developer`**
 
-Olá!!! Meu chamo Davison Israel de Azevedo, sou formado em Tecnologia em Sistemas para Internet pelo IFSUL. Estou em busca de uma oportunidade profissional com o intuito de aplicar o embasamento teórico visto durante o curso em projetos reais e contribuir com o desenvolvimento de projetos enquanto acelero meu aprendizado técnico.
+Hi! How's it going? I'm Davison Israel. I graduated in Internet Systems Technology from IFSUL Campus Charqueadas, and I'm currently doing a post-grad in Software Engineering at PUC Minas. Right now, I'm looking for an opportunity to put what I've learned into practice on real projects—contributing to the team while growing fast as a developer.
 
-###  Linguagens e Tecnologias
+###  Languages & Technologies
 
 <img 
     align="left" 
@@ -134,7 +134,7 @@ Olá!!! Meu chamo Davison Israel de Azevedo, sou formado em Tecnologia em Sistem
 <br/>
 <br/>
 
-### Redes Sociais
+### Socials
 
 <div> 
   <a href="https://instagram.com/davih.is" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
